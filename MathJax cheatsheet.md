@@ -1,11 +1,9 @@
 ---
 tags: 
-title: MathJax cheatsheet
+title: Obsidian mathJax cheatsheet
 ---
 
-[List of Greek letters and math symbols - Overleaf, Online LaTeX Editor](https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols#Greek_letters)
-
-# Obsidian Mathjax cheat sheet and references
+# Obsidian Mathjax cheatsheet and references
 
 If you notice anything out of place, a mistake somewhere or if you think something is missing, please reach out to me and let me know.
 ## Basics
