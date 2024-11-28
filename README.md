@@ -1,3 +1,3 @@
-# Obsidian-Math
+# Obsidian Mathjax Cheatsheet
 
 Hello
